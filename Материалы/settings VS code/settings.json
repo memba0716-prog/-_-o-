@@ -1,0 +1,10 @@
+{
+    "python.defaultInterpreterPath": "c:\\Users\\USER\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+    "explorer.confirmDelete": false,
+    "workbench.editorAssociations": {
+        "*.copilotmd": "vscode.markdown.preview.editor",
+        "*.vsix": "default"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "workbench.colorCustomizations": {}
+}
